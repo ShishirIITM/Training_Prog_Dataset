@@ -1,0 +1,9 @@
+### Dataset 2:
+In dataset 2 we have the executions made by traders (1,2,3,4) over a period of __ days, for a single stock. We have for each execution **date_time, buyer_id, volume, price, liquidity taker {1,0}**. The traders (1,2,3,4) are always on the buy side of the trade. There are __ executions per day, each execution is made with one of the 4 traders with equal probability.
+
+| Trader | Probability of taking liquidity |
+|-|:-:| 
+| 1 | 0.3 |
+| 2 | 0.5 |
+| 3 | 0.7 |
+| 4 | 0.2 |
