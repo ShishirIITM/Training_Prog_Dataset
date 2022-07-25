@@ -1,0 +1,14 @@
+The dataframe consists of the details of the activity of 10,000 traders.
+
+There are 5 features in the dataframe and 2 response variables. 
+
+The 5 features are:
+1) avg_vol: average volume traded
+2) avg_buy_vol: average buy volume
+3) avg_value: average value traded
+4) perc_ret: percentage return
+5) avg_num_trades: average number of trades made
+
+The two response variables are:
+1) anomaly : Gives a 1 or 0 as an anomaly flag for the trader (1 = anomalous)
+2) avg_num_orders: Gives the average number of orders placed by the trader
